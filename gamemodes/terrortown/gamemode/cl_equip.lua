@@ -5,7 +5,7 @@ local GetPTranslation = LANG.GetParamTranslation
 local randomShopItems = {}
 
 function resetRandomShopItems()
-   print("hook klappt")
+   print("hook works")
    randomShopItems = {}
 end
 
